@@ -18,7 +18,7 @@ class ViewController: UIViewController {
 
             if isLeapYear{
                 return true
-            }else{
+            } else {
                 return false
             }
         }
